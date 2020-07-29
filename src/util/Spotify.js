@@ -1,6 +1,6 @@
 let accessToken;
 let expiresIn; 
- const redirectURI = 'https://create-a-vibe.surge.sh/';
+ const redirectURI = '';
 const clientId = "491d142398024d38a1396d37454c1e85";
 const authEndpoint = 'https://accounts.spotify.com/authorize';
 
