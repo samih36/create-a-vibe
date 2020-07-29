@@ -1,6 +1,6 @@
 let accessToken;
 let expiresIn; 
- const redirectURI = '';
+ const redirectURI = 'https://create-a-vibe.netlify.app/';
 const clientId = "491d142398024d38a1396d37454c1e85";
 const authEndpoint = 'https://accounts.spotify.com/authorize';
 
